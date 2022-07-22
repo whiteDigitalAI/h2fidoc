@@ -4,6 +4,7 @@ Welcome to H2fi's documentation!
 **H2fi** is a platform for digital marketing agencies to collobarate with their outsourcing partners, freelancers and remote staff and remain anonymous. This is a no fluff platform and eliminates all unwanted, unused features of a typical project management system.
 
 The new age platform built exclusively for digital marketing agencies by a 18 year old award winning digital marketing agency team.
+
 - Clients, Projects, Staff, Reporting put under one roof.
 - Total control over remote teams and projects.
 - Project management, Task management, Time management, Analytics, SEO tools, Reporting, Sales pages.
