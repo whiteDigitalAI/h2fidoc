@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'H2fi'
+copyright = '2022, H2fi'
+author = 'H2fi'
 
 release = '0.1'
 version = '0.1.0'
